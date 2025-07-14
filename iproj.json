@@ -1,0 +1,6 @@
+{
+  "description": "Payroll File Maintenenance",
+  "curlib": "&CURLIB",
+  "buildCommand": "makei build",
+  "compileCommand": "makei compile -f {filename}"
+}
